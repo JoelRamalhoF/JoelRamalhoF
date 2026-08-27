@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor.gif" width="450" alt="Banner Dungeon" />
+  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/descanso.gif" width="820" height="360" alt="Banner Dungeon" />
   
   <br><br>
 
@@ -26,7 +26,7 @@
 ## 📖 Sobre Mim (Minha Jornada)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor1.gif" width="550" alt="Cavaleiro na Fogueira" />
+  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor1.gif" width="820" height="320" alt="Cavaleiro na Fogueira" />
 </div>
 <br>
 
@@ -89,7 +89,16 @@ App em tempo real consumindo serviços externos da Open-Meteo API.
 
 ---
 
+
 <div align="center">
+  
+  > *"A jornada pelo código é longa, viajante. Sente-se, sirva-se de uma bebida quente e sinta-se em casa para descansar e explorar os repositórios e conquistas desta aventura!"*
+  
+  <br>
+
+  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor.gif" width="820" height="420" alt="Banner Dungeon" />
+  
+  <br><br>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelRamalhoF&show_icons=true&theme=gruvbox&hide_border=true&hide=prs,issues&count_private=false&v=1)](https://github.com/JoelRamalhoF)
   
