@@ -25,14 +25,20 @@
 
 ## 📖 Sobre Mim (Minha Jornada)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor1.gif" width="820" height="320" alt="Cavaleiro na Fogueira" />
-</div>
-<br>
-
-Bem-vindo ao meu perfil! Sou um Desenvolvedor Full Stack Júnior que une o raciocínio lógico da Engenharia Mecânica (minha formação inicial) com a paixão por criar sistemas modernos. Comecei minha jornada técnica criando scripts em Python para automatizar mods de jogos, e hoje desenvolvo aplicações web de ponta a ponta. Para expandir minha *skill tree*, atualmente curso uma pós-graduação em Engenharia de Software.
-
-No mercado, atuo como Freelancer desenvolvendo soluções reais — como um SaaS CRM e sistemas de seguros — utilizando **React, TypeScript, Java, Spring Boot e PostgreSQL**. Também sou fascinado por inteligência artificial e automação: utilizo LLMs e agentes autônomos (como Claude Code) como "aliados" para otimizar fluxos de trabalho, analisar códigos e aumentar a produtividade.
+<table>
+  <tr>
+    <td width="650">
+      🛡️ <strong>Bem-vindo ao meu perfil!</strong><br><br>
+      Sou um Desenvolvedor Full Stack Júnior que une o raciocínio lógico da Engenharia Mecânica (minha formação inicial) com a paixão por criar sistemas modernos. Comecei minha jornada técnica criando scripts em Python para automatizar mods de jogos, e hoje desenvolvo aplicações web de ponta a ponta.<br><br>
+      Para expandir minha <em>skill tree</em>, atualmente curso uma pós-graduação em Engenharia de Software.<br><br>
+      No mercado, atuo como Freelancer desenvolvendo soluções reais — como um SaaS CRM e sistemas de seguros — utilizando <strong>React, TypeScript, Java, Spring Boot e PostgreSQL</strong>.<br><br>
+      Também sou fascinado por inteligência artificial e automação: utilizo LLMs e agentes autônomos (como Claude Code) como "aliados" para otimizar fluxos de trabalho, analisar códigos e aumentar a produtividade.
+    </td>
+    <td align="center" width="350">
+      <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor1.gif" width="350" height="300" alt="Cavaleiro na Fogueira" />
+    </td>
+  </tr>
+</table>
 
 ---
 
