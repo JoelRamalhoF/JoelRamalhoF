@@ -1,104 +1,98 @@
-# 🎮 Joel Ramalho Filho — Full Stack Java Developer
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor.gif" width="450" alt="Banner Dungeon" />
+  
+  <br><br>
 
-> 🕹️ Player 1 | 🌍 São Paulo, BR | 🏁 Próxima quest: vaga Full Stack Java (remoto ou SP)
-
----
-
-## 🧭 Sobre Mim
-
-Desenvolvedor em formação com foco em **Java + Spring Boot** no backend e **React/TypeScript** no frontend.  
-Crio APIs REST, modelagem de dados com MySQL e interfaces web responsivas, sempre versionando tudo no Git/GitHub.
-
-- 🎓 Bootcamp Full Stack Java – Generation Brasil  
-- 🛠️ Stack principal: **Java, Spring Boot, MySQL, HTML, CSS, JavaScript, TypeScript, React, Git/GitHub**  
-- 🎯 Objetivo: **vaga Full Stack Java (remoto ou São Paulo)**  
+  # ⚔️ Joel Ramalho Filho
+  ### ⚔️ Full Stack Java Developer | 🎮 Apaixonado por Tecnologia & RPG
+  
+  > *"A persistência é a chave para desbravar qualquer código."*
+</div>
 
 ---
 
-## 🗺️ Mapa de Habilidades
+## 📜 Status do Jogador
 
-```text
-[Java]          ██████████░░ 80%
-[Spring Boot]   ████████░░░░ 70%
-[MySQL]         ████████░░░░ 70%
-[JavaScript]    ███████░░░░░ 65%
-[TypeScript]    ███████░░░░░ 60%
-[React]         ██████░░░░░░ 60%
-[Git/GitHub]    █████████░░░ 75%
-```
-
-*(Ajuste as “barras” conforme se sentir mais confortável em cada tecnologia.)*
+| Atributo                 | Valor                                                                 |
+|--------------------------|-----------------------------------------------------------------------|
+| 🌍 **Localização**       | Mogi das Cruzes, SP                                                   |
+| 🛡️ **Atuação Atual**     | Desenvolvedor Full Stack Freelancer na VidaConecta                    |
+| 🗣️ **Idiomas**           | Português (Nativo) • Inglês (Avançado)                                |
+| 🏁 **Objetivo (Quest)**  | Vaga Full Stack Java (remoto, híbrido ou presencial)                  |
+| 🔗 **Links**             | [LinkedIn](https://www.linkedin.com/in/joel-cunha-ramalho-filho) • [Portfólio](https://joelramalhof.github.io/portfolio/) |
 
 ---
 
-## 🏰 Projetos em Destaque
+## 📖 Sobre Mim (Minha Jornada)
 
-### ⚔️ lojagames – API REST de Loja de Games
-API REST em **Java + Spring Boot** para gerenciamento de produtos, categorias e usuários de uma loja de games, com autenticação **JWT**.  
-🔗 Repo: [github.com/JoelRamalhoF/lojagames](https://github.com/JoelRamalhoF/lojagames)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/dungeon-corridor1.gif" width="550" alt="Cavaleiro na Fogueira" />
+</div>
+<br>
 
-### 🛡️ livraria_online_react – E-commerce de Livraria
-Aplicação web de livraria online com **React, TypeScript e Vite**, autenticação de usuários e CRUD de categorias e produtos integrado a uma API Spring Boot.  
-🔗 Repo: [github.com/JoelRamalhoF/livraria_online_react](https://github.com/JoelRamalhoF/livraria_online_react)
+Bem-vindo ao meu perfil! Sou um Desenvolvedor Full Stack Júnior que une o raciocínio lógico da Engenharia Mecânica (minha formação inicial) com a paixão por criar sistemas modernos. Comecei minha jornada técnica criando scripts em Python para automatizar mods de jogos, e hoje desenvolvo aplicações web de ponta a ponta. Para expandir minha *skill tree*, atualmente curso uma pós-graduação em Engenharia de Software.
 
-### 🧙 projeto_final_bloco_02 – API de Farmácia
-API REST para gerenciamento de farmácia em **Java + Spring Boot**, com **Spring Security, JWT e MySQL**.  
-🔗 Repo: [github.com/JoelRamalhoF/projeto_final_bloco_02](https://github.com/JoelRamalhoF/projeto_final_bloco_02)
-
-### 🏹 blogpessoal – API de Blog Pessoal
-API REST para blog pessoal com cadastro de usuários, postagens e temas, em **Java + Spring Boot + MySQL + JWT**.  
-🔗 Repo: [github.com/JoelRamalhoF/blogpessoal](https://github.com/JoelRamalhoF/blogpessoal)
-
-### 🪄 projeto_clima – App de Previsão do Tempo
-Aplicação web em **HTML, CSS e JavaScript puro** consumindo a API Open‑Meteo para exibir previsão do tempo em tempo real, com testes em **Jest**.  
-🔗 Repo: [github.com/JoelRamalhoF/projeto_clima](https://github.com/JoelRamalhoF/projeto_clima)
-
-### 🏠 startup_react – Landing Page Institucional
-Landing page responsiva para uma empresa de tecnologia fictícia, feita com **React, TypeScript, Tailwind CSS e React Router**.  
-🔗 Repo: [github.com/JoelRamalhoF/startup_react](https://github.com/JoelRamalhoF/startup_react)
+No mercado, atuo como Freelancer desenvolvendo soluções reais — como um SaaS CRM e sistemas de seguros — utilizando **React, TypeScript, Java, Spring Boot e PostgreSQL**. Também sou fascinado por inteligência artificial e automação: utilizo LLMs e agentes autônomos (como Claude Code) como "aliados" para otimizar fluxos de trabalho, analisar códigos e aumentar a produtividade.
 
 ---
 
-## 🎒 Inventário (Tech Stack)
+## 🧰 Tech Stack & Inventário
 
-**Backend:**  
-`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `REST` `JWT` `Spring Security`
-
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Vite` `Tailwind CSS`
-
-**Ferramentas & Outros:**  
-`Git` `GitHub` `Postman` `VS Code` `Spring Tools` `Jest` `SQL`
-
----
-
-## 📜 Quests Atuais
-
-- 📚 Aprofundar **testes unitários e de integração** em Java/Spring  
-- 🔐 Estudar mais **segurança em APIs** (Spring Security, boas práticas de JWT)  
-- 🎨 Melhorar **UI/UX e design** nos projetos frontend  
-- 🖥️ Explorar mais **Linux, hardware e otimização de desempenho**  
-
----
-
-## 🏆 Conquistas
-
-- ✅ Bootcamp Full Stack Java concluído  
-- ✅ +20 repositórios públicos no GitHub com projetos acadêmicos e de portfólio  
-- ✅ Portfólio pessoal em: [joelramalhof.github.io/portfolio](https://joelramalhof.github.io/portfolio/)  
-- ✅ Experiência prática com suporte, hardware, Windows e troubleshooting  
+<table>
+  <tr>
+    <td align="center" width="350">
+      <img src="https://raw.githubusercontent.com/JoelRamalhoF/github-profile-assets/refs/heads/main/main/gifs/setup.gif" width="300" alt="Tech Setup" />
+    </td>
+    <td width="650">
+      <strong>⚔️ Backend (Lógica & Dados)</strong><br>
+      <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JWT</code> <code>JPA/Hibernate</code> <code>PostgreSQL</code> <code>MySQL</code> <code>Swagger/OpenAPI</code><br><br>
+      <strong>🏹 Frontend (Interface)</strong><br>
+      <code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>React Router</code> <code>HTML5</code> <code>CSS3</code><br><br>
+      <strong>🔮 Automação & IA</strong><br>
+      <code>Claude Code</code> <code>LLMs</code> <code>Agentes Autônomos</code> <code>Python</code><br><br>
+      <strong>🛠️ Ferramentas & Metodologias</strong><br>
+      <code>Git/GitHub</code> <code>Postman/Insomnia</code> <code>Jest</code> <code>VS Code</code> <code>Scrum</code> <code>Kanban</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Contato / Start Game
+## 🏰 Projetos & Missões Concluídas
 
-- 💼 LinkedIn: *(adicione seu link)*  
-- 📧 E-mail: *(adicione seu e-mail)*  
-- 🌐 Portfólio: [joelramalhof.github.io/portfolio](https://joelramalhof.github.io/portfolio/)  
+### 🛡️ VidaConecta – Freelance Atual
+Desenvolvimento de ponta a ponta de um SaaS CRM para gestão de clientes e de um sistema de seguros.
+- **Tecnologias:** Front-end em React/TypeScript, Back-end em Java/Spring Boot e persistência de dados em PostgreSQL.
 
-> 🎮 Press **Start** para entrar em contato e iniciar uma nova colaboração!
+### 📚 Blog Pessoal (Full Stack)
+Solução web para gerenciamento de usuários, postagens e temas.
+- **Tecnologias:** API REST em Java/Spring Boot protegida com Spring Security/JWT e interface em React/TypeScript.  
+- 🔗 [Repositório Back-end](https://github.com/JoelRamalhoF/blogpessoal) • [Repositório Front-end](https://github.com/JoelRamalhoF/blogpessoal_react)
+
+### 🧪 Sistema de Gestão de Farmácia
+API REST para gerenciamento completo de farmácia, com persistência e regras de negócio.
+- **Tecnologias:** Java, Spring Boot, MySQL, Spring Security/JWT e documentação via Swagger/OpenAPI.  
+- 🔗 [Repositório](https://github.com/JoelRamalhoF/projeto_final_bloco_02)
+
+### 🌤️ Previsão Climática Web
+App em tempo real consumindo serviços externos da Open-Meteo API.
+- **Tecnologias:** Construído com JavaScript, HTML, CSS e testado automatizadamente com Jest.  
+- 🔗 [Repositório](https://github.com/JoelRamalhoF/projeto_clima)
 
 ---
 
-<!-- Opcional: stats do GitHub (troque SEU_USUARIO se necessário) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelRamalhoF&show_icons=true&theme=dark&hide=prs,issues&count_private=false)
+## 🔮 Próximos Níveis (Evolução Contínua)
+
+- 🎓 Concluir o Bootcamp Full Stack Java na Generation Brasil.  
+- 🎓 Avançar na pós-graduação em Engenharia de Software (Previsão: 12/2027).  
+- 🤖 Aprofundar estudos sobre IA, estruturando fluxos de trabalho avançados com LLMs.
+
+---
+
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelRamalhoF&show_icons=true&theme=gruvbox&hide_border=true&hide=prs,issues&count_private=false&v=1)](https://github.com/JoelRamalhoF)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelRamalhoF&layout=compact&theme=gruvbox&hide_border=true&v=1)](https://github.com/JoelRamalhoF)
+
+</div>
