@@ -113,8 +113,5 @@ App em tempo real consumindo serviços externos da Open-Meteo API.
   
   <br><br>
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoelRamalhoF&show_icons=true&theme=gruvbox&hide_border=true&hide=prs,issues&count_private=false&v=1)](https://github.com/JoelRamalhoF)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelRamalhoF&layout=compact&theme=gruvbox&hide_border=true&v=1)](https://github.com/JoelRamalhoF)
-
 </div>
